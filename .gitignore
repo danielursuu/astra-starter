@@ -1,0 +1,28 @@
+# Secrets: API keys stay here, never in git
+.env
+.env.*
+!.env.example
+
+# Dependencies and builds
+node_modules/
+.next/
+dist/
+build/
+out/
+.vercel/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Agent tooling (local only)
+.parallel-logs/
+.playwright-mcp/
+.claude/settings.local.json
+CLAUDE.local.md
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+*.log
