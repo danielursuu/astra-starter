@@ -120,7 +120,7 @@ Nu aveți abonament? Vedeți `docs/ieftin.md`: GLM și Kimi în Claude Code, Ope
 
 ## Linkuri
 
-- Astra Hack: <!-- TODO: add the official event link --> în curând
+- Astra Hack (6–7 noiembrie 2026, Sibiu Innovation Week): https://innovationweek.ro/hackathon · înscrieri: https://forms.gle/mmnhKAbYMUZDKAcL9
 - Claude Code: https://code.claude.com/docs
 - Codex: https://developers.openai.com/codex
 - Cursor: https://cursor.com/docs
