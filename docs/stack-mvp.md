@@ -33,6 +33,8 @@ npx shadcn@latest add button card input table
 
 (Documentația oficială arată comenzile cu `pnpm dlx`; `npx` face același lucru cu npm.)
 
+Skill-ul `shadcn` din `.claude/skills/` îi arată agentului cum să caute, să adauge și să combine componentele. Când drumul principal merge, skill-ul `impeccable` face interfața să arate îngrijit.
+
 ## Licențe
 
 Codul altora e liber doar în limitele licenței lui.

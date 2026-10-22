@@ -59,15 +59,20 @@ Documentație: https://opencode.ai/docs/providers/
 
 ## Gratuit pentru studenți: Google AI Plus
 
-Studenții din România primesc 12 luni gratuite de Google AI Plus (limite duble pentru Gemini, 400 GB stocare). Activare pe https://one.google.com/ai-student, cu verificarea statutului de student. Oferta trebuie activată până la 31 decembrie 2026 (conform presei; verificați condițiile pe pagina Google).
+Studenții din România primesc 12 luni gratuite de Google AI Plus (limite duble pentru Gemini, 400 GB stocare). Activare pe https://one.google.com/ai-student, cu verificarea statutului de student. Oferta trebuie activată până la 31 decembrie 2026 (conform presei; verificați condițiile pe pagina Google). La înscriere vi se cere un card; după cele 12 luni costă aproximativ 5 $ pe lună dacă nu anulați.
 
 <!-- TODO: verify whether Google AI Plus raises Antigravity / agy usage limits; the Google RO announcement does not mention coding tools. -->
 
-## Pe scurt
+## Pe scurt: cât costă pe lună
 
-| Varianta | Cost | Potrivită pentru |
+| Cost pe lună | Varianta | Potrivită pentru |
 |---|---|---|
-| Google AI Plus (studenți) | gratuit | Gemini, schițe, documentare |
-| GLM sau Kimi în Claude Code | mic | lucrul zilnic cu agentul |
-| OpenCode + OpenRouter | plătiți cât folosiți | testarea mai multor modele |
-| Abonament Claude sau ChatGPT | 20 $ pe lună și peste | cele mai bune rezultate |
+| gratuit | Google AI Plus, 12 luni pentru studenți (include Gemini) | schițe, documentare, întrebări |
+| 18 $ | GLM Coding Plan Lite (Z.ai), merge în Claude Code | lucrul zilnic cu agentul |
+| 20 $ | Claude Pro (include Claude Code) sau ChatGPT Plus (include Codex) | cele mai bune rezultate la un preț mic |
+| 100–200 $ | Claude Max (100 $ sau 200 $), ChatGPT Pro (200 $) | lucru intens, toată ziua |
+| cât folosiți | OpenCode + OpenRouter, sau API-ul Kimi | testarea mai multor modele |
+
+Kimi Code are și abonament, de la aproximativ 99 de yuani pe lună (cam 14 $). Prețurile sunt cele din prezentarea din 22 octombrie 2026; verificați-le pe site-ul fiecărui furnizor.
+
+O metodă bună cu un plan ieftin bate un model scump folosit fără plan.

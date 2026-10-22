@@ -10,6 +10,7 @@ riscantă din docs/02-spec.md?
   terminal.
 - Nu construi nimic din „Mai târziu”.
 - Nu falsifica partea riscantă. Dacă nu merge, spune-ne direct.
-Arată-ne 3 exemple reale: ce intră și ce iese. Fă commit-uri mici și adaugă
+Dacă întrebarea e despre logică sau despre cum arată un ecran, folosește
+skill-ul prototype. Arată-ne 3 exemple reale: ce intră și ce iese. Fă commit-uri mici și adaugă
 un rând în docs/PROGRESS.md.
 ```

@@ -5,7 +5,8 @@ Când: partea riscantă merge. Urmează 12 ore de construit.
 ```text
 Partea riscantă merge. Fă un plan pentru MVP pe baza docs/02-spec.md și
 docs/stack-mvp.md:
-- Ce componente gata făcute folosim (shadcn/ui, biblioteci open-source)?
+- Ce componente gata făcute folosim (shadcn/ui prin skill-ul shadcn,
+  biblioteci open-source)?
   Verifică licența fiecăreia; semnalează-ne orice GPL/AGPL sau licență lipsă.
 - Împarte munca în 4–8 pași mici, fiecare verificabil în browser.
 - Primul pas: drumul principal cap-coadă, cât de simplu.

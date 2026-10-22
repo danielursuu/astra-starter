@@ -10,7 +10,7 @@ Your job is to ask, not to build. Write no code during this skill.
 ## Steps
 
 1. Read `docs/01-context.md`, `docs/02-spec.md`, `docs/03-business.md`, and look at `docs/sketches/` and `docs/data/`. Note what is already answered.
-2. Ask at most 3 questions per message, most important first. Prefer concrete questions with examples or options ("Is the user a student, a teacher, or both?") over open ones.
+2. Ask one question at a time, most important first, with 2–4 concrete answer options and a short explanation for each ("Is the user a student, a teacher, or both?"). Always let the team answer in their own words. If your tool has a question tool (Claude Code: `AskUserQuestion`), use it; otherwise ask in chat with numbered options.
 3. Cover these topics, in order, skipping what is already clear:
    - **Problem**: what goes wrong today, how often, how painful.
    - **User**: one specific person. What they use today instead.
