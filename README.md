@@ -142,7 +142,7 @@ Tiparul din prezentare, bun pe orice proiect:
 2. Orchestratorul împarte munca. Fiecare **subagent** primește o sarcină mică și clară și propriul context, doar cu ce îi trebuie.
 3. Rezultatele se întorc la orchestrator, apoi la voi. **Un om verifică** ce a ieșit și decide ce intră.
 
-`scripts/parallel.sh` face asta cu fișiere: voi (sau orchestratorul) scrieți câte o sarcină în `tasks/`, scriptul pornește câte un agent pentru fiecare, iar voi verificați rezultatul înainte să îl păstrați.
+`scripts/parallel.sh` aplică același tipar cu fișiere: voi (sau orchestratorul) scrieți câte o sarcină în `tasks/`, scriptul pornește câte un agent pentru fiecare, iar voi verificați rezultatul înainte să îl păstrați.
 
 ```bash
 scripts/parallel.sh --tool claude tasks/ecran-principal.md tasks/import-date.md
